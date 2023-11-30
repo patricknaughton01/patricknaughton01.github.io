@@ -5,7 +5,7 @@ image: /images/system_overview_5.png
 categories: research
 author: "Patrick Naughton"
 authors: "<strong>Patrick Naughton*</strong>, Joao Marcos Correia Marques*, Jing-Chen Peng*, Yifan Zhu*, James Seungbum Nam, Qianxi Kong, Xuanpu Zhang, Aman Penmetcha, Ruifan Ji, Nairen Fu, Vignesh Ravibaskar, Ryan Yan, Neil Malhotra and Kris Hauser"
-venue: "Submitted to International Journal of Social Robotics, Special Issue on Robot Avatars for Telepresence and Social Interaction, 2023"
+venue: "To Appear: International Journal of Social Robotics, Special Issue on Robot Avatars for Telepresence and Social Interaction, 2023"
 arxiv:
 code:
 website: https://motion.cs.illinois.edu/nursing/index.html
