@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "Immersive Commodity Telepresence with the TRINA Robot Avatar"
+title:  "Immersive Commodity Telepresence with the AVATRINA Robot Avatar"
 image: /images/system_overview_5.png
 categories: research
 author: "Patrick Naughton"
 authors: "<strong>Patrick Naughton*</strong>, Joao Marcos Correia Marques*, Jing-Chen Peng*, Yifan Zhu*, James Seungbum Nam, Qianxi Kong, Xuanpu Zhang, Aman Penmetcha, Ruifan Ji, Nairen Fu, Vignesh Ravibaskar, Ryan Yan, Neil Malhotra and Kris Hauser"
-venue: "To Appear: International Journal of Social Robotics, Special Issue on Robot Avatars for Telepresence and Social Interaction, 2023"
+venue: "International Journal of Social Robotics, Special Issue on Robot Avatars for Telepresence and Social Interaction, 2024"
 arxiv:
 code:
+paper: https://link.springer.com/article/10.1007/s12369-023-01090-1
 website: https://motion.cs.illinois.edu/nursing/index.html
 youtube: https://www.youtube.com/watch?v=4NTKMyry2D0
 ---

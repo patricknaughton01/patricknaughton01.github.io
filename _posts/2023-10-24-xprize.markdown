@@ -11,9 +11,10 @@ Ivaldi, Fumio Kanehiro, Abderrahmane Kheddar, Ga ̈elle
 Lannuzel, Jacquelyn Ford Morie, <strong>Patrick Naughton</strong>, Steve NGuyen, Paul
 Oh, Taskin Padir, Jim Pippine, Jaeheung Park, Jean Vaz, Daniele
 Pucci, Peter Whitney, Peggy Wu and David Locke"
-venue: "Submitted to International Journal of Social Robotics, Special Issue on Robot Avatars for Telepresence and Social Interaction, 2023"
-arxiv:
+venue: "International Journal of Social Robotics, Special Issue on Robot Avatars for Telepresence and Social Interaction, 2024"
+arxiv: https://arxiv.org/abs/2401.05290
 code:
+paper: https://link.springer.com/article/10.1007/s12369-023-01095-w
 website: https://www.xprize.org/prizes/avatar
 youtube: https://www.youtube.com/watch?v=lOnV1Go6Op0
 ---
