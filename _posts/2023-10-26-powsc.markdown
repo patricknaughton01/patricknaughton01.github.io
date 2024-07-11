@@ -5,8 +5,9 @@ image: /images/powsc_feature.png
 categories: research
 author: "Patrick Naughton"
 authors: "<strong>Patrick Naughton*</strong>, James Seungbum Nam*, Andrew Stratton, Kris Hauser"
-venue: "Accepted to ICRA, 2024"
+venue: "ICRA, 2024"
 arxiv: https://arxiv.org/abs/2401.03079
 code:
 website:
+youtube: https://www.youtube.com/watch?v=5RshtX4mpQU
 ---
