@@ -9,5 +9,6 @@ venue: "ICRA, 2024"
 arxiv: https://arxiv.org/abs/2401.03079
 code:
 website:
+paper: https://ieeexplore.ieee.org/document/10611618
 youtube: https://www.youtube.com/watch?v=5RshtX4mpQU
 ---
