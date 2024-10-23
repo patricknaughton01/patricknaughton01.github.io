@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Immersive Commodity Telepresence with the AVATRINA Robot Avatar"
-image: /images/system_overview_5.png
+image: /images/TRINA_Icon_tall.gif
 categories: research
 author: "Patrick Naughton"
 authors: "<strong>Patrick Naughton*</strong>, Joao Marcos Correia Marques*, Jing-Chen Peng*, Yifan Zhu*, James Seungbum Nam, Qianxi Kong, Xuanpu Zhang, Aman Penmetcha, Ruifan Ji, Nairen Fu, Vignesh Ravibaskar, Ryan Yan, Neil Malhotra and Kris Hauser"
